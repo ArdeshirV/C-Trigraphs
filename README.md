@@ -15,11 +15,11 @@ make run
 </code>
 
 And you will see this output:
-<code>
-# Compiled with old behavior: gcc -trigraphs ...
+<pre>
+\# Compiled with old behavior: gcc -trigraphs ...
 ./trigraph-old
 [  ] { | } ~ # |
-# Compiled with new behavior: gcc ...
+\# Compiled with new behavior: gcc ...
 ./trigraph-new
 ??( ??/ ??) ??< ??! ??> ??- ??= ??!
-</code>
+</pre>
