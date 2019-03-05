@@ -9,17 +9,17 @@ This is the code:
 int main() { printf("??( ??/ ??) ??< ??! ??> ??- ??= ??!\n"); }
 </pre>
 
-You run by:
+You can run code by:
 <code>
 make run
 </code>
 
 And you will see this output:
 <pre>
-\# Compiled with old behavior: gcc -trigraphs ...
+# Compiled with old behavior: gcc -trigraphs ...
 ./trigraph-old
 [  ] { | } ~ # |
-\# Compiled with new behavior: gcc ...
+# Compiled with new behavior: gcc ...
 ./trigraph-new
 ??( ??/ ??) ??< ??! ??> ??- ??= ??!
 </pre>
