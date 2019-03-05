@@ -1,6 +1,7 @@
 # C-Trigraphs
 
-This simple application shows how to use trigraphs.
+C-Trigraphs shows how to use trigraphs. Trigraphs were very old method to show characters in C programming language when you had to use very old keyboards without many usual everyday characters like: [  ] { | } ~ # |
+
 This is the code:
 <pre>
 // trigraph.c
