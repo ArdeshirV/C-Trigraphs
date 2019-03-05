@@ -1,0 +1,5 @@
+// trigraph.c
+// Copyright 2018 (c) ardeshirv@protonmail.com, Licensed Under GPLv3+
+#include <stdio.h>
+int main() { printf("??( ??/ ??) ??< ??! ??> ??- ??= ??!\n"); }
+
