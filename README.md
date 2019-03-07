@@ -25,4 +25,4 @@ And you will see this output:
 ??( ??/ ??) ??< ??! ??> ??- ??= ??!
 </pre>
 
-<a href="mailto:ardeshirv@protonmail.com" target="_blank">Copyright;copyright& 2018 ardeshirv(@)protonmail.com Licensed Under GPLv3</a>
+Copyright&copy; 2018 <a href="mailto:ardeshirv@protonmail.com" target="_blank">ardeshirv(@)protonmail.com</a> Licensed Under GPL<sup>v3</sup>
