@@ -5,7 +5,7 @@ C-Trigraphs shows how to use trigraphs. Trigraphs were very old method to show c
 This is the code:
 <pre>
 // trigraph.c
-// Copyright 2018 (c) ardeshirv@protonmail.com, Licensed Under GPLv3+
+// Copyright (c) 2018 ardeshirv@protonmail.com, Licensed Under GPLv3+
 #include <stdio.h>
 int main() { printf("??( ??/ ??) ??< ??! ??> ??- ??= ??!\n"); }
 </pre>
@@ -24,3 +24,5 @@ And you will see this output:
 ./trigraph-new
 ??( ??/ ??) ??< ??! ??> ??- ??= ??!
 </pre>
+
+<a href="mailto:ardeshirv@protonmail.com" target="_blank">Copyright (c) 2018 ardeshirv(@)protonmail.com Licensed Under GPLv3</a>
