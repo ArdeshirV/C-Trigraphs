@@ -24,5 +24,5 @@ And you will see this output:
 ./trigraph-new
 ??( ??/ ??) ??< ??! ??> ??- ??= ??!
 </pre>
-
+<br/>
 Copyright&copy; 2018 <a href="mailto:ardeshirv@protonmail.com" target="_blank">ardeshirv(at)protonmail.com</a> Licensed Under GPL<sup>v3+</sup>
